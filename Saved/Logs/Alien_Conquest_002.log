@@ -3420,3 +3420,253 @@ Script call stack:
 [2021.09.22-23.27.53:730][810]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.09.22-23.27.53:730][810]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.09.22-23.32.31:179][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.22-23.33.17:630][563]LogSlate: Window 'Wall1' being destroyed
+[2021.09.22-23.33.17:635][563]LogSlate: Window 'Wall1' being destroyed
+[2021.09.22-23.33.17:637][563]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-23.33.17:638][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-23.34.18:881][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall13)
+[2021.09.22-23.36.17:330][350]Cmd: TRANSACTION UNDO
+[2021.09.22-23.36.17:330][350]LogEditorTransaction: Undo Set Location
+[2021.09.22-23.36.41:593][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2021.09.22-23.38.06:605][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall16)
+[2021.09.22-23.38.08:011][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall15)
+[2021.09.22-23.38.20:721][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.22-23.38.55:349][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2021.09.22-23.39.51:013][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.09.22-23.39.55:752][207]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.22-23.40.34:930][852]Cmd: TRANSACTION UNDO
+[2021.09.22-23.40.34:930][852]LogEditorTransaction: Undo Move Actors
+[2021.09.22-23.41.24:770][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall17)
+[2021.09.22-23.41.49:864][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2021.09.22-23.42.51:195][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.09.22-23.42.52:271][667]LogSlate: Window 'Save Content' being destroyed
+[2021.09.22-23.42.52:320][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.09.22-23.42.52:339][667]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/FirstPersonExampleMap60A0498044368D4BE5457B8312BCC93A.tmp' to '../../../../../Github/Alien_Conquest_002/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.09.22-23.42.52:348][667]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.044
+[2021.09.22-23.42.52:358][667]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.09.22-23.42.52:358][667]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.09.22-23.43.05:894][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall10)
+[2021.09.22-23.43.51:105][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall18)
+[2021.09.22-23.44.03:640][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall19)
+[2021.09.22-23.44.04:530][ 81]Cmd: DELETE
+[2021.09.22-23.44.04:530][ 81]Cmd: ACTOR DELETE
+[2021.09.22-23.44.04:532][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.44.04:549][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.09.22-23.44.04:559][ 81]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.09.22-23.44.06:806][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_wall18)
+[2021.09.22-23.44.11:406][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.22-23.45.19:937][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.22-23.45.21:098][936]LogSlate: Window 'Save Content' being destroyed
+[2021.09.22-23.45.21:137][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.22-23.45.21:156][936]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/FirstPersonExampleMap855BA21641FFEC30402A3E80D733ED55.tmp' to '../../../../../Github/Alien_Conquest_002/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.09.22-23.45.21:164][936]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.042
+[2021.09.22-23.45.21:174][936]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.09.22-23.45.21:174][936]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.09.22-23.46.50:003][590]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.22-23.46.50:007][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.22-23.46.50:007][590]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2021, 1:46:50 PM)
+[2021.09.22-23.46.50:007][590]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.09.22-23.46.50:020][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012999s)
+[2021.09.22-23.46.50:021][590]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.09.22-23.46.50:021][590]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2021.09.22-23.46.50:021][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014460s)
+[2021.09.22-23.46.50:038][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.09.22-23.46.50:054][590]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.09.22-23.46.50:054][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-23.46.50:055][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-23.46.50:055][590]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-23.46.50:055][590]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 4: BackLeft
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 5: BackRight
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 6: SideLeft
+[2021.09.22-23.46.50:057][590]LogAudioMixer: Display: 7: SideRight
+[2021.09.22-23.46.50:090][590]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.09.22-23.46.50:090][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-23.46.50:090][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-23.46.50:090][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-23.46.50:091][590]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-23.46.50:091][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-23.46.50:091][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.22-23.46.50:105][590]LogInit: FAudioDevice initialized.
+[2021.09.22-23.46.50:105][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-23.46.50:105][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-23.46.50:105][590]LogAudio: Display: Audio Device (ID: 27) registered with world 'FirstPersonExampleMap'.
+[2021.09.22-23.46.50:148][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-23.46.50:148][590]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.09.22-23.46.50:151][590]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonCrunch/Characters/Heroes/Crunch/Crunch_AnimBlueprint.Crunch_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonCrunch/Characters/Heroes/Crunch/Crunch_AnimBlueprint.Crunch_AnimBlueprint_C:ExecuteUbergraph_Crunch_AnimBlueprint
+
+[2021.09.22-23.46.50:152][590]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.09.22-18.46.50
+[2021.09.22-23.46.50:152][590]LogWorld: Bringing up level for play took: 0.003962
+[2021.09.22-23.46.50:152][590]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.09.22-23.46.50:156][590]PIE: Server logged in
+[2021.09.22-23.46.50:157][590]PIE: Play in editor total start time 0.151 seconds.
+[2021.09.22-23.48.17:683][875]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-18901.824 Y=-19906.670 Z=289.983] for [FirstPersonProjectile_C]
+[2021.09.22-23.49.29:850][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-23.49.29:850][519]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.09.22-23.49.29:851][519]LogSlate: Window 'Alien_Conquest_002 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.22-23.49.29:861][519]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-23.49.29:862][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-23.49.29:873][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-23.49.29:891][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-23.49.29:907][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-23.49.29:908][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-23.49.29:940][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.09.22-23.49.29:967][520]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.09.22-23.50.12:398][492]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.22-23.51.43:458][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.09.22-23.51.44:357][456]Cmd: DELETE
+[2021.09.22-23.51.44:357][456]Cmd: ACTOR DELETE
+[2021.09.22-23.51.44:359][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.44:375][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.09.22-23.51.44:386][456]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.09.22-23.51.45:369][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.22-23.51.46:398][693]Cmd: DELETE
+[2021.09.22-23.51.46:398][693]Cmd: ACTOR DELETE
+[2021.09.22-23.51.46:400][693]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.46:416][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.09.22-23.51.46:417][693]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.22-23.51.47:087][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.09.22-23.51.47:566][827]Cmd: DELETE
+[2021.09.22-23.51.47:566][827]Cmd: ACTOR DELETE
+[2021.09.22-23.51.47:568][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.47:583][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.09.22-23.51.47:583][827]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.47:986][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.22-23.51.48:387][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2021.09.22-23.51.48:877][976]Cmd: DELETE
+[2021.09.22-23.51.48:877][976]Cmd: ACTOR DELETE
+[2021.09.22-23.51.48:880][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.48:894][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.09.22-23.51.48:896][976]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.22-23.51.49:398][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2021.09.22-23.51.49:763][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.22-23.51.50:325][141]Cmd: DELETE
+[2021.09.22-23.51.50:325][141]Cmd: ACTOR DELETE
+[2021.09.22-23.51.50:327][141]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.09.22-23.51.50:343][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.09.22-23.51.50:344][141]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.22-23.51.52:018][342]Cmd: TRANSACTION UNDO
+[2021.09.22-23.51.52:018][342]LogEditorTransaction: Undo Delete Actors
+[2021.09.22-23.51.52:980][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2021.09.22-23.51.53:887][509]Cmd: DELETE
+[2021.09.22-23.51.53:887][509]Cmd: ACTOR DELETE
+[2021.09.22-23.51.53:889][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.53:904][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.09.22-23.51.53:905][509]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.22-23.51.54:434][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2021.09.22-23.51.54:765][608]Cmd: DELETE
+[2021.09.22-23.51.54:765][608]Cmd: ACTOR DELETE
+[2021.09.22-23.51.54:767][608]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.54:782][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.09.22-23.51.54:782][608]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.55:168][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2021.09.22-23.51.55:474][687]Cmd: DELETE
+[2021.09.22-23.51.55:474][687]Cmd: ACTOR DELETE
+[2021.09.22-23.51.55:476][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.55:490][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.22-23.51.55:491][687]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.55:863][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2021.09.22-23.51.56:087][755]Cmd: DELETE
+[2021.09.22-23.51.56:088][755]Cmd: ACTOR DELETE
+[2021.09.22-23.51.56:090][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.56:104][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.22-23.51.56:105][755]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.56:356][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2021.09.22-23.51.56:512][800]Cmd: DELETE
+[2021.09.22-23.51.56:512][800]Cmd: ACTOR DELETE
+[2021.09.22-23.51.56:515][800]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.56:528][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.22-23.51.56:529][800]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.57:533][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2021.09.22-23.51.57:991][971]Cmd: DELETE
+[2021.09.22-23.51.57:991][971]Cmd: ACTOR DELETE
+[2021.09.22-23.51.57:993][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.58:007][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.22-23.51.58:008][971]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.58:297][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2021.09.22-23.51.58:538][ 31]Cmd: DELETE
+[2021.09.22-23.51.58:538][ 31]Cmd: ACTOR DELETE
+[2021.09.22-23.51.58:540][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.58:555][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.51.58:556][ 31]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.22-23.51.58:874][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.09.22-23.51.59:288][115]Cmd: DELETE
+[2021.09.22-23.51.59:288][115]Cmd: ACTOR DELETE
+[2021.09.22-23.51.59:291][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.51.59:305][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.09.22-23.51.59:306][115]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.51.59:811][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2021.09.22-23.52.00:007][196]Cmd: DELETE
+[2021.09.22-23.52.00:007][196]Cmd: ACTOR DELETE
+[2021.09.22-23.52.00:009][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.00:025][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.52.00:026][196]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.22-23.52.00:319][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2021.09.22-23.52.00:682][271]Cmd: DELETE
+[2021.09.22-23.52.00:682][271]Cmd: ACTOR DELETE
+[2021.09.22-23.52.00:684][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.00:699][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.22-23.52.00:700][271]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.52.00:992][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2021.09.22-23.52.01:300][340]Cmd: DELETE
+[2021.09.22-23.52.01:300][340]Cmd: ACTOR DELETE
+[2021.09.22-23.52.01:302][340]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.01:316][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.22-23.52.01:317][340]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.52.01:644][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2021.09.22-23.52.01:899][406]Cmd: DELETE
+[2021.09.22-23.52.01:899][406]Cmd: ACTOR DELETE
+[2021.09.22-23.52.01:901][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.01:915][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.22-23.52.01:916][406]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.52.02:201][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2021.09.22-23.52.02:458][467]Cmd: DELETE
+[2021.09.22-23.52.02:458][467]Cmd: ACTOR DELETE
+[2021.09.22-23.52.02:460][467]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.02:474][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.22-23.52.02:475][467]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.52.02:753][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2021.09.22-23.52.02:992][524]Cmd: DELETE
+[2021.09.22-23.52.02:992][524]Cmd: ACTOR DELETE
+[2021.09.22-23.52.02:993][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.03:008][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.52.03:008][524]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.22-23.52.03:288][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2021.09.22-23.52.03:510][581]Cmd: DELETE
+[2021.09.22-23.52.03:510][581]Cmd: ACTOR DELETE
+[2021.09.22-23.52.03:511][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.03:525][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.52.03:526][581]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.22-23.52.03:898][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.09.22-23.52.04:104][647]Cmd: DELETE
+[2021.09.22-23.52.04:104][647]Cmd: ACTOR DELETE
+[2021.09.22-23.52.04:106][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.04:121][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.52.04:122][647]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.22-23.52.22:259][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.09.22-23.52.22:912][875]Cmd: DELETE
+[2021.09.22-23.52.22:912][875]Cmd: ACTOR DELETE
+[2021.09.22-23.52.22:913][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.22-23.52.22:927][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.22-23.52.22:930][875]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.22-23.52.29:524][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.52.30:541][645]LogSlate: Window 'Save Content' being destroyed
+[2021.09.22-23.52.30:587][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.22-23.52.30:603][645]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/FirstPersonExampleMap09AFD220460256E8C6A2EC8130027121.tmp' to '../../../../../Github/Alien_Conquest_002/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.09.22-23.52.30:612][645]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.040
+[2021.09.22-23.52.30:621][645]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.09.22-23.52.30:621][645]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.09.22-23.56.51:320][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
