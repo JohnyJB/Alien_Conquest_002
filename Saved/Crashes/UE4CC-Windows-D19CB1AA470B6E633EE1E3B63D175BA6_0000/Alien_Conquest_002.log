@@ -1,0 +1,1165 @@
+﻿Log file open, 11/10/21 23:27:20
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Alien_Conquest_002
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.321348
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/fer_2/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.11-05.27.20:850][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.11-05.27.20:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:851][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:874][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:874][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.11-05.27.20:874][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.11-05.27.20:874][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:874][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.11-05.27.20:874][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:874][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.11-05.27.20:874][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.11-05.27.20:874][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.11-05.27.20:875][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.11-05.27.20:876][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.11-05.27.20:876][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.11-05.27.20:876][  0]LogHAL: Display: Platform has ~ 16 GB [17024741376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.11-05.27.20:876][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.11-05.27.20:876][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:876][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.11.11-05.27.20:877][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.11.11-05.27.20:878][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.11-05.27.20:879][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.11-05.27.20:879][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.11-05.27.20:879][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.11-05.27.20:879][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Engine.ini]
+[2021.11.11-05.27.20:879][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/Alien_Conquest_002/Saved/Config/Windows/Editor.ini]
+[2021.11.11-05.27.20:879][  0]LogInit: Computer: LAPTOP-NJNUEN5K
+[2021.11.11-05.27.20:879][  0]LogInit: User: fer2
+[2021.11.11-05.27.20:879][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.11-05.27.20:879][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.11-05.27.20:879][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.11-05.27.20:879][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.11-05.27.20:879][  0]LogMemory: Process Physical Memory: 137.16 MB used, 137.16 MB peak
+[2021.11.11-05.27.20:879][  0]LogMemory: Process Virtual Memory: 118.79 MB used, 118.79 MB peak
+[2021.11.11-05.27.20:879][  0]LogMemory: Physical Memory: 6284.36 MB used,  9951.70 MB free, 16236.06 MB total
+[2021.11.11-05.27.20:879][  0]LogMemory: Virtual Memory: 134205128.00 MB used,  12603.26 MB free, 134217728.00 MB total
+[2021.11.11-05.27.20:925][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.11-05.27.20:989][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.11-05.27.20:992][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.11.11-05.27.20:992][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.11.11-05.27.21:261][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.11-05.27.21:274][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.11-05.27.21:297][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.11-05.27.21:297][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.11-05.27.21:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.11-05.27.21:646][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.11-05.27.21:646][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.11-05.27.21:646][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.11-05.27.21:776][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.11.11-05.27.21:776][  0]LogD3D11RHI:       3962/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.11-05.27.21:811][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.11.11-05.27.21:812][  0]LogD3D11RHI:       128/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.11-05.27.21:814][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.11-05.27.21:814][  0]LogD3D11RHI:       0/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.11-05.27.21:814][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.11-05.27.21:822][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.11-05.27.21:822][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.11-05.27.21:822][  0]LogWindows: EnumDisplayDevices:
+[2021.11.11-05.27.21:822][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.11.11-05.27.21:822][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.11.11-05.27.21:823][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.11.11-05.27.21:823][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2021.11.11-05.27.21:823][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.11.11-05.27.21:823][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.11.11-05.27.21:823][  0]LogD3D11RHI:   Driver Version: 457.63 (internal:27.21.14.5763, unified:457.63)
+[2021.11.11-05.27.21:823][  0]LogD3D11RHI:      Driver Date: 12-8-2020
+[2021.11.11-05.27.21:823][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.11.11-05.27.21:913][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.11-05.27.21:913][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.11-05.27.21:913][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.11-05.27.21:953][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.11-05.27.21:955][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.11-05.27.22:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.11-05.27.22:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.11-05.27.22:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.11-05.27.22:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.11-05.27.22:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.11-05.27.22:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.11-05.27.22:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.11-05.27.22:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.11-05.27.22:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.11-05.27.22:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.11-05.27.22:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.11-05.27.22:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.11-05.27.22:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.11-05.27.22:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.11-05.27.22:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.11-05.27.22:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.11-05.27.22:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.11-05.27.22:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.11-05.27.22:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.11-05.27.22:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.11-05.27.22:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.11-05.27.22:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.11-05.27.23:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.11-05.27.23:471][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.11-05.27.23:484][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.11-05.27.23:587][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.11-05.27.23:587][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../Github/Alien_Conquest_002/Intermediate/Shaders/WorkingDirectory/10824/).
+[2021.11.11-05.27.23:588][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fer_2/AppData/Local/Temp/UnrealShaderWorkingDir/B84331A54152ED89CF18DBB3E1C36E0A/'.
+[2021.11.11-05.27.23:588][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.11-05.27.23:588][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.11-05.27.24:947][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.11-05.27.25:013][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/fer_2/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.11-05.27.25:013][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fer_2/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.11-05.27.25:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/Alien_Conquest_002/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.11-05.27.25:014][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.11-05.27.25:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/Alien_Conquest_002/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.11-05.27.25:014][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.11-05.27.25:033][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.11-05.27.25:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.11-05.27.25:033][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.11-05.27.25:046][  0]LogDerivedDataCache: Speed tests for C:/Users/fer_2/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.11-05.27.25:046][  0]LogDerivedDataCache: Display: Performance to C:/Users/fer_2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=693.07MBs, RandomWriteSpeed=87.13MBs. Assigned SpeedClass 'Local'
+[2021.11.11-05.27.25:047][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fer_2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.11-05.27.25:047][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.11-05.27.25:047][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.11-05.27.25:131][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.11-05.27.25:132][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.11-05.27.25:174][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2021.11.11-05.27.25:541][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.11-05.27.25:541][  0]LogInit: Active device profile: [000001CB2723FB00][000001CB25F2EEC0 49] Windows
+[2021.11.11-05.27.25:541][  0]LogInit: Profiles: [000001CB2723FB00][000001CB25F2EEC0 49] Windows, [000001CB27200600][000001CB25F3F040 49] WindowsNoEditor, [000001CB2723C600][000001CB25F8F1C0 49] WindowsServer, [000001CB27203600][000001CB25FD7340 49] WindowsClient, [000001CB2723F400][000001CB25FDB4C0 49] IOS, [000001CB27200C00][000001CB28115640 49] iPadAir, [000001CB2723C900][000001CB25F33780 49] iPadAir2, [000001CB27E65200][000001CB2819D9C0 49] IPadPro, [000001CB27E65300][000001CB28179A00 49] iPadAir3, [000001CB2723E700][000001CB281A5B80 49] iPadAir4, [000001CB27E64B00][000001CB281A9D00 49] iPadMini2, [000001CB2723CB00][000001CB281AC1C0 49] iPadMini3, [000001CB27E66200][000001CB281B0340 49] iPadMini4, [000001CB2723EC00][000001CB281B44C0 49] iPadMini5, [000001CB27203E00][000001CB281BC780 49] iPhone6, [000001CB27203A00][000001CB281B87C0 49] iPodTouch6, [000001CB27E64700][000001CB281C4A80 49] iPhone7, [000001CB27E66100][000001CB281C0AC0 49] iPodTouch7, [000001CB27203400][000001CB281C8C40 49] iPhone5S, [000001CB27E64100][000001CB281CCDC0 49] iPhone6Plus, [000001CB27201E00][000001CB281D0F40 49] iPhone6S, [000001CB27E65F00][000001CB281D50C0 49] iPhone6SPlus, [000001CB27203900][000001CB281D9240 49] iPhone7Plus, [000001CB27E64800][000001CB281DD3C0 49] iPhoneSE, [000001CB27200800][000001CB281E1540 49] iPhone8, [000001CB27E64E00][000001CB281E56C0 49] iPhone8Plus, [000001CB27201B00][000001CB281A1800 49] iPhoneX, [000001CB27E66C00][000001CB281E9940 49] iPhoneXS, [000001CB27202500][000001CB281EDA80 49] iPhoneXSMax, [000001CB27E64F00][000001CB281F5C00 49] iPhoneXR, [000001CB27202E00][000001CB281F80C0 49] iPhone11, [000001CB27E64200][000001CB281FC240 49] iPhone11Pro, [000001CB27200900][000001CB282003C0 49] iPhone11ProMax, [000001CB27E64D00][000001CB28204540 49] iPhoneSE2, [000001CB27202700][000001CB282086C0 49] iPhone12Mini, [000001CB27E66700][000001CB2820C840 49] iPhone12, [000001CB27203B00][000001CB282109C0 49] iPhone12Pro, [000001CB27E66800][000001CB28214B40 49] iPhone12ProMax, [000001CB27200400][000001CB28218CC0 49] iPadPro105, [000001CB27E67A00][000001CB2821CE40 49] iPadPro129, [000001CB27202100][000001CB28220FC0 49] iPadPro97, [000001CB27E67D00][000001CB28225140 49] iPadPro2_129, [000001CB27202B00][000001CB282292C0 49] iPad5, [000001CB27E65800][000001CB2822D440 49] iPad6, [000001CB27203D00][000001CB282315C0 49] iPad7, [000001CB27E66900][000001CB28235740 49] iPad8, [000001CB27203000][000001CB281F1880 49] iPadPro11, [000001CB27E65500][000001CB282399C0 49] iPadPro2_11, [000001CB27200E00][000001CB2823DB00 49] iPadPro3_129, [000001CB27E65B00][000001CB28241C40 49] iPadPro4_129, [000001CB27202200][000001CB28248100 49] AppleTV, [000001CB27E67300][000001CB2824C280 49] AppleTV4K, [000001CB27202A00][000001CB28250400 49] TVOS, [000001CB27E66D00][000001CB28254580 49] Mac, [000001CB27201700][000001CB28258700 49] MacClient, [000001CB27E65E00][000001CB2825C880 49] MacNoEditor, [000001CB27203100][000001CB28260A00 49] MacServer, [000001CB27E64900][000001CB28264B80 49] Linux, [000001CB27201D00][000001CB28268D00 49] LinuxAArch64, [000001CB27E67900][000001CB2826CE80 49] LinuxNoEditor, [000001CB27203500][000001CB28271000 49] LinuxAArch64NoEditor, [000001CB27E66000][000001CB28275180 49] LinuxClient, [000001CB27202400][000001CB28279300 49] LinuxAArch64Client, [000001CB27E64A00][000001CB2827D480 49] LinuxServer, [000001CB27319500][000001CB28281600 49] LinuxAArch64Server, [000001CB2723CE00][000001CB28285780 49] Android, [000001CB27318800][000001CB282458C0 49] Android_Low, [000001CB2723DF00][000001CB28289A00 49] Android_Mid, [000001CB27319F00][000001CB2828DB40 49] Android_High, [000001CB2723CF00][000001CB28291C80 49] Android_Default, [000001CB27318200][000001CB28298140 49] Android_Adreno4xx, [000001CB2723CA00][000001CB2829C2C0 49] Android_Adreno5xx_Low, [000001CB27318100][000001CB282A0440 49] Android_Adreno5xx, [000001CB2723D400][000001CB282A45C0 49] Android_Adreno6xx, [000001CB27319700][000001CB282A8740 49] Android_Adreno6xx_Vulkan, [000001CB2723E800][000001CB282AC8C0 49] Android_Mali_T6xx, [000001CB27318E00][000001CB282B0A40 49] Android_Mali_T7xx, [000001CB2723C700][000001CB282B4BC0 49] Android_Mali_T8xx, [000001CB27318900][000001CB282B8D40 49] Android_Mali_G71, [000001CB2723F900][000001CB282BCEC0 49] Android_Mali_G72, [000001CB27318400][000001CB282C1040 49] Android_Mali_G72_Vulkan, [000001CB2723DE00][000001CB282C51C0 49] Android_Mali_G76, [000001CB27319100][000001CB282C9340 49] Android_Mali_G76_Vulkan, [000001CB2723E200][000001CB282CD4C0 49] Android_Mali_G77, [000001CB27E64600][000001CB282D1640 49] Android_Mali_G77_Vulkan, [000001CB27202D00][000001CB282D57C0 49] Android_Vulkan_SM5, [000001CB27E65400][000001CB282D9940 49] Android_PowerVR_G6xxx, [000001CB27202F00][000001CB28295A80 49] Android_PowerVR_GT7xxx, [000001CB27E65000][000001CB282DDBC0 49] Android_PowerVR_GE8xxx, [000001CB27201C00][000001CB282E1D00 49] Android_PowerVR_GM9xxx, [000001CB27E67800][000001CB282E81C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001CB27200100][000001CB282EC340 49] Android_TegraK1, [000001CB27E66600][000001CB282F04C0 49] Android_Unknown_Vulkan, [000001CB27201F00][000001CB282F4640 49] Lumin, [000001CB27E67700][000001CB282F87C0 49] Lumin_Desktop, [000001CB27201600][000001CB282FC940 49] HoloLens, 
+[2021.11.11-05.27.25:729][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.11-05.27.25:729][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.11-05.27.25:729][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.11-05.27.25:729][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.11-05.27.25:729][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.11-05.27.25:753][  0]LogNetVersion: Alien_Conquest_002 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2539033346)
+[2021.11.11-05.27.26:423][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.11-05.27.26:482][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.058098 seconds
+[2021.11.11-05.27.26:489][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.11-05.27.26:489][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.11-05.27.26:489][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.11-05.27.27:037][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.11-05.27.27:043][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.11-05.27.27:165][  0]SourceControl: Source control is disabled
+[2021.11.11-05.27.27:165][  0]SourceControl: Source control is disabled
+[2021.11.11-05.27.27:170][  0]SourceControl: Source control is disabled
+[2021.11.11-05.27.27:174][  0]SourceControl: Source control is disabled
+[2021.11.11-05.27.27:188][  0]SourceControl: Source control is disabled
+[2021.11.11-05.27.27:197][  0]LogUProjectInfo: Found projects:
+[2021.11.11-05.27.28:222][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.11-05.27.28:253][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.11-05.27.28:253][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.11-05.27.28:324][  0]LogCollectionManager: Loaded 0 collections in 0.000992 seconds
+[2021.11.11-05.27.28:419][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Alien_Conquest_002/Saved/Collections/' took 0.00s
+[2021.11.11-05.27.28:419][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Alien_Conquest_002/Content/Developers/fer2/Collections/' took 0.00s
+[2021.11.11-05.27.28:419][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Alien_Conquest_002/Content/Collections/' took 0.00s
+[2021.11.11-05.27.28:419][  0]LogOcInput: OculusInput pre-init called
+[2021.11.11-05.27.28:434][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.11-05.27.28:434][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.11-05.27.28:505][  0]LogEngine: Initializing Engine...
+[2021.11.11-05.27.28:506][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.11-05.27.28:506][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.11-05.27.28:507][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.11-05.27.28:663][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.11-05.27.28:673][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.11-05.27.28:691][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.11-05.27.28:698][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.11-05.27.28:698][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-05.27.28:698][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-05.27.28:698][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-05.27.28:698][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 5: BackRight
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.11.11-05.27.29:200][  0]LogAudioMixer: Display: 7: SideRight
+[2021.11.11-05.27.29:729][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.11.11-05.27.29:733][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-05.27.29:736][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-05.27.29:737][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-05.27.29:738][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-05.27.29:738][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-05.27.29:738][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.11-05.27.29:739][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-05.27.29:739][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-05.27.29:739][  0]LogInit: FAudioDevice initialized.
+[2021.11.11-05.27.29:739][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.11-05.27.29:739][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.11-05.27.29:808][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/fer_2/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.11-05.27.29:811][  0]LogInit: Texture streaming: Enabled
+[2021.11.11-05.27.29:829][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.11-05.27.29:834][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.11-05.27.29:834][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.11-05.27.29:837][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.11-05.27.29:876][  0]LogInit: Transaction tracking system initialized
+[2021.11.11-05.27.29:908][  0]BlueprintLog: New page: Editor Load
+[2021.11.11-05.27.30:006][  0]LocalizationService: Localization service is disabled
+[2021.11.11-05.27.30:039][  0]TimingProfiler: Initialize
+[2021.11.11-05.27.30:039][  0]TimingProfiler: OnSessionChanged
+[2021.11.11-05.27.30:039][  0]LoadingProfiler: Initialize
+[2021.11.11-05.27.30:039][  0]LoadingProfiler: OnSessionChanged
+[2021.11.11-05.27.30:039][  0]NetworkingProfiler: Initialize
+[2021.11.11-05.27.30:039][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.11-05.27.30:039][  0]MemoryProfiler: Initialize
+[2021.11.11-05.27.30:040][  0]MemoryProfiler: OnSessionChanged
+[2021.11.11-05.27.30:229][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.11-05.27.30:229][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.11-05.27.30:447][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Alien_Conquest_002/Content/' took 0.05s
+[2021.11.11-05.27.30:756][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.11-05.27.30:761][  0]SourceControl: Source control is disabled
+[2021.11.11-05.27.30:761][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.811
+[2021.11.11-05.27.30:761][  0]Cmd: MAP LOAD FILE="../../../../../Github/Alien_Conquest_002/Content/FirstPersonBP/Maps/LevelMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.11-05.27.30:761][  0]LightingResults: New page: Lighting Build
+[2021.11.11-05.27.30:762][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-05.27.30:762][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-05.27.30:762][  0]MapCheck: New page: Map Check
+[2021.11.11-05.27.30:762][  0]LightingResults: New page: Lighting Build
+[2021.11.11-05.27.30:773][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.11.11-05.27.31:630][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelMenu'.
+[2021.11.11-05.27.31:631][  0]LogAIModule: Creating AISystem for world LevelMenu
+[2021.11.11-05.27.31:639][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.11-05.27.31:652][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.11.11-05.27.31:658][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.11-05.27.31:658][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2021.11.11-05.27.31:658][  0]LogFileHelpers: Loading map 'LevelMenu' took 0.898
+[2021.11.11-05.27.31:661][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.711
+[2021.11.11-05.27.31:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-05.27.31:829][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-05.27.31:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-05.27.31:848][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-05.27.31:867][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3601 classes and 859 folders.
+[2021.11.11-05.27.31:870][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.11-05.27.31:873][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.11-05.27.31:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-05.27.31:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.11.11-05.27.31:875][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.11-05.27.31:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.11-05.27.31:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.11.11-05.27.31:876][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.11-05.27.31:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.11-05.27.31:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.11-05.27.31:877][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-05.27.31:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-05.27.31:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.11.11-05.27.31:879][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.11-05.27.31:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.11-05.27.31:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.11-05.27.31:880][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.11-05.27.31:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.11-05.27.31:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.11.11-05.27.31:881][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.11-05.27.31:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.11-05.27.31:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.11-05.27.31:883][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.11-05.27.31:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.11-05.27.31:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.11-05.27.31:884][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.11-05.27.31:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.11-05.27.31:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.11-05.27.31:885][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.11-05.27.31:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.11-05.27.31:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.11-05.27.31:886][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.11-05.27.31:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.11-05.27.31:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.11-05.27.31:888][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.11-05.27.31:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.11-05.27.31:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.11-05.27.31:889][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-05.27.31:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-05.27.31:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.11-05.27.31:890][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.11-05.27.31:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.11-05.27.31:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.11-05.27.31:891][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.11-05.27.31:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.11-05.27.31:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.11-05.27.31:893][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.11-05.27.31:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-05.27.31:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.11-05.27.31:894][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.11-05.27.31:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.11-05.27.31:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.11-05.27.31:895][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.11-05.27.31:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.11-05.27.31:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.11-05.27.31:896][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-05.27.31:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-05.27.31:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.11-05.27.31:898][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-05.27.31:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-05.27.31:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.11-05.27.31:899][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.11-05.27.31:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-05.27.31:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.11-05.27.31:900][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.11-05.27.31:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.11-05.27.31:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.11.11-05.27.31:902][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.11-05.27.31:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.11-05.27.31:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.11.11-05.27.31:903][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.11-05.27.31:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.11-05.27.31:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.11.11-05.27.31:904][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-05.27.31:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-05.27.31:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.11.11-05.27.31:906][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.11-05.27.31:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-05.27.31:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.11-05.27.31:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.11.11-05.27.32:002][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.11-05.27.32:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.11-05.27.32:169][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.11-05.27.32:173][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.11-05.27.32:181][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.11-05.27.32:321][  0]LogRenderer: Reallocating scene render targets to support 928x400 Format 9 NumSamples 1 (Frame:1).
+[2021.11.11-05.27.32:687][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.11-05.27.32:687][  0]LogLoad: (Engine Initialization) Total time: 13.74 seconds
+[2021.11.11-05.27.32:687][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.11-05.27.32:687][  0]LogInit: First time updating LLM stats...
+[2021.11.11-05.27.32:808][  0]LogContentStreaming: Texture pool size now 400 MB
+[2021.11.11-05.27.32:908][  2]LogAssetRegistry: Asset discovery search completed in 7.7355 seconds
+[2021.11.11-05.27.32:910][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.11-05.27.32:940][  2]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.11-05.36.49:474][588]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.11-05.36.49:488][588]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-05.36.49:587][588]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.11-05.36.50:638][588]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.11-05.36.52:198][675]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.11-05.37.27:726][812]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-05.37.27:781][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.11.11-05.37.27:835][812]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.11-05.37.28:292][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-05.37.28:316][839]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenuE72582064B60E44E28779F9B9DBD6F97.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-05.37.28:330][839]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-05.37.28:330][839]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-05.38.58:626][346]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2021.11.11-05.38.58:638][346]LogContentBrowser: Creating deferred item: NewInterface
+[2021.11.11-05.39.09:712][ 10]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_LobbyGM
+[2021.11.11-05.39.09:713][ 10]LogContentBrowser: End creating deferred item NewInterface
+[2021.11.11-05.39.11:386][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BPI_LobbyGM.BPI_LobbyGM
+[2021.11.11-05.39.52:460][115]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.11-05.40.02:848][727]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Initial Setup . Please refresh node or break links to remove pin.
+[2021.11.11-05.40.02:848][727]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Initial Setup . Please refresh node or break links to remove pin.
+[2021.11.11-05.40.02:848][727]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] In use pin  Target  no longer exists on node  Initial Setup . Please refresh node or break links to remove pin.
+[2021.11.11-05.40.02:848][727]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a function named "InitialSetup" in 'BP_LobbyPC_C'.
+Make sure 'BP_LobbyPC_C' has been compiled for  Initial Setup
+[2021.11.11-05.40.05:177][864]BlueprintLog: New page: Compile BPI_LobbyGM
+[2021.11.11-05.40.05:211][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.11-05.40.05:847][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BPI_LobbyGM" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyGM.uasset" SILENT=true
+[2021.11.11-05.40.05:850][898]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BPI_LobbyGM7F7761ED4E4384A79AB75685CEB84B54.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyGM.uasset'
+[2021.11.11-05.40.05:867][898]AssetCheck: New page: Asset Save: BPI_LobbyGM
+[2021.11.11-05.40.05:867][898]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BPI_LobbyGM.BPI_LobbyGM
+[2021.11.11-05.40.47:182][  2]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-05.40.47:221][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.11.11-05.40.47:730][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-05.40.47:761][ 28]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu202924A64532F846BBD77B87F4E9507A.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-05.40.47:773][ 28]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-05.40.47:773][ 28]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-05.41.24:569][134]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.41.57:126][624]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.41.57:135][624]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a function named "InitialSetup" in 'BP_LobbyPC_C'.
+Make sure 'BP_LobbyPC_C' has been compiled for  Initial Setup
+[2021.11.11-05.41.57:136][624]LogBlueprint: Warning: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Node  Initial Setup . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2021.11.11-05.41.57:136][624]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] This blueprint (self) is not a BP_LobbyPC_C, therefore ' Target ' must have a connection.
+[2021.11.11-05.41.57:184][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.11.11-05.42.05:218][103]LogEditorTransaction: Undo Create Pin Link
+[2021.11.11-05.42.05:760][114]LogEditorTransaction: Undo Create Pin Link
+[2021.11.11-05.42.06:094][133]LogEditorTransaction: Undo Break Pin Links
+[2021.11.11-05.42.10:225][373]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.42.10:272][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.11.11-05.42.14:327][599]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.42.14:330][599]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] This blueprint (self) is not a BP_LobbyPC_C, therefore ' Target ' must have a connection.
+[2021.11.11-05.42.14:374][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.11-05.42.22:778][ 84]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.42.22:827][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.11.11-05.42.23:445][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.42.23:460][118]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameModeFBF49A0E45BFA2511E59D2849DE41CCC.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.42.23:474][118]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.42.23:474][118]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.43.11:866][462]LogEditorTransaction: Undo Delete current selection
+[2021.11.11-05.43.12:135][469]LogEditorTransaction: Undo Delete current selection
+[2021.11.11-05.43.12:334][474]LogEditorTransaction: Undo Move Node
+[2021.11.11-05.43.13:649][550]LogEditorTransaction: Undo Move Node
+[2021.11.11-05.43.14:012][570]LogEditorTransaction: Undo Delete current selection
+[2021.11.11-05.43.14:318][586]LogEditorTransaction: Undo Delete current selection
+[2021.11.11-05.43.28:251][411]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.43.28:301][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.11-05.43.28:786][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.43.28:801][437]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameModeB8640C97419574ADCC329596F2F6DB92.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.43.28:814][437]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.43.28:814][437]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.43.44:471][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.43.44:485][366]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameModeDC1154BB48D9F94F336E3492A0D38D03.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.43.44:499][366]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.43.44:499][366]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.43.45:556][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.43.45:571][429]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode6E813CBA4BBCB095F2E0A5957FE65969.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.43.45:584][429]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.43.45:584][429]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.46.22:557][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/BPI_GameInstance.BPI_GameInstance
+[2021.11.11-05.46.38:879][ 22]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-05.46.38:879][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-05.46.39:773][ 70]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.46.39:777][ 70]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Message node  Show Loading Screen  must have a valid target or reference to self.
+[2021.11.11-05.46.39:828][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.11.11-05.46.43:560][290]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.46.43:611][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.11.11-05.46.43:875][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.46.43:891][302]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode23DC2FA84FB7C08C2A256BABA350995C.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.46.43:903][302]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.46.43:903][302]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.46.49:398][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-05.47.36:614][372]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-05.47.36:622][372]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2021.11.11-05.47.36:676][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.11.11-05.47.46:449][915]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-05.47.46:503][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.11-05.47.46:901][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-05.47.46:916][935]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPCD029E8874B81DE3845DAF0AC7A36B828.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-05.47.46:934][935]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-05.47.46:934][935]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-05.48.24:338][892]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-05.48.24:342][892]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2021.11.11-05.48.24:394][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.11.11-05.48.27:089][ 50]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-05.48.27:142][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.11.11-05.48.27:490][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-05.48.27:506][ 67]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPCA6D7BB3C42B694D66B4965A76C28C7CE.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-05.48.27:521][ 67]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-05.48.27:521][ 67]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-05.48.55:123][416]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.48.55:181][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.11.11-05.48.55:561][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.48.55:581][435]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameModeA37B2D0A43F13DB2AFDAFB96C9593291.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.48.55:598][435]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.48.55:598][435]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.49.46:254][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.11.11-05.49.46:256][244]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/LevelMenu' took 0.050
+[2021.11.11-05.49.46:257][244]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/BP_LobbyGameMode] ([1] browsable assets)...
+[2021.11.11-05.49.46:257][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/BP_LobbyGameMode]
+[2021.11.11-05.49.46:277][244]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode_Auto1E9664BB94E05D37E3584119BF84019EC.tmp' to '../../../../../Github/Alien_Conquest_002/Saved/Autosaves/Game/_main/Lobby/BP_LobbyGameMode_Auto1.uasset'
+[2021.11.11-05.49.46:279][244]LogFileHelpers: Auto-saving content packages took 0.022
+[2021.11.11-05.50.55:929][191]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.50.55:994][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.11.11-05.50.56:526][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.50.56:543][229]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode6C7917E24A0E7650E0C3C7A6CAA25E4E.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.50.56:557][229]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.50.56:557][229]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.51.18:799][499]LogContentBrowser: Attempting asset rename: FirstPersonExampleMap -> FirstPersonExampleMap
+[2021.11.11-05.52.50:370][935]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.52.50:430][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.11.11-05.52.50:887][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.52.50:904][972]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode3A9563D5450CD98F868B0993EFA32FFA.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.52.50:917][972]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.52.50:917][972]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.53.17:041][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.53.17:060][246]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameModeFD7975844174892B3A0DEEA24F4BE376.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.53.17:073][246]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.53.17:073][246]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.53.25:473][893]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-05.53.25:530][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.11.11-05.53.25:993][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.53.26:011][925]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode4B88D11940D0B78DE1133191276FAF31.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.53.26:027][925]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.53.26:027][925]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.55.06:624][ 37]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-05.55.06:687][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.11.11-05.55.26:466][584]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-05.55.26:517][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.11.11-05.55.26:939][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-05.55.26:969][610]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu46EFB89340501E7752E855B0D6925C91.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-05.55.26:983][610]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-05.55.26:984][610]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-05.55.28:825][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-05.55.28:842][734]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode108ED0D549DDC0963B0A0B81F34F114C.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-05.55.28:854][734]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-05.55.28:854][734]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-05.56.08:783][985]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-05.56.08:783][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-05.56.29:913][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BPI_LobbyGM.BPI_LobbyGM
+[2021.11.11-05.56.34:348][874]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-05.56.34:349][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-05.56.49:850][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-05.56.49:877][198]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu52E61A01494CC875DB2F64AA61BE8BAA.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-05.56.49:891][198]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-05.56.49:891][198]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-05.57.58:694][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-05.57.58:720][943]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu459AA82E49575AC3237D5E88F38D8DAB.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-05.57.58:736][943]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-05.57.58:736][943]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-05.59.43:609][812]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-05.59.43:693][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.11.11-05.59.44:203][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-05.59.44:234][852]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenuA5D8AAA447771B304C79B78D6C6852CB.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-05.59.44:249][852]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-05.59.44:249][852]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-06.02.47:995][807]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-06.02.48:060][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.11.11-06.02.48:533][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-06.02.48:568][835]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu109E95C34615D41A108E03A6CFD10AEA.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-06.02.48:583][835]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-06.02.48:583][835]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-06.03.49:825][246]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-06.03.49:933][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.11.11-06.03.50:172][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-06.03.50:203][257]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu517D059A4A43ADE241A7828E1A0F7B06.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-06.03.50:219][257]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-06.03.50:219][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-06.04.18:340][231]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.11-06.05.00:439][298]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.11-06.05.00:445][298]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.11-06.05.33:870][238]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.11-06.05.33:966][238]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.11.11-06.05.34:482][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.11-06.05.34:510][269]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/LobbyMenu5D4350C649148F3C0FA5F1868A8E9F00.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.11-06.05.34:531][269]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.11-06.05.34:531][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.11-06.06.21:568][233]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-06.06.21:689][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.11.11-06.06.21:958][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.06.21:978][243]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPC071E9F9740ABF549FF88BB9E75935074.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.06.21:999][243]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.06.21:999][243]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.06.23:640][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.06.23:660][350]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPCECD50D914DFB2ED6EB19909B6382DC46.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.06.23:680][350]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.06.23:680][350]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.06.29:608][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.06.29:628][752]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPCBE08BD0649FF8A04FA4F048B88C85148.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.06.29:646][752]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.06.29:646][752]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.06.52:448][452]LogTemp: Repeating last play command: Standalone Game
+[2021.11.11-06.06.52:537][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.11.11-06.11.27:199][ 25]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-06.11.27:341][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.11.11-06.11.27:660][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.11.27:678][ 40]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPC34CA15494C5300B76CF5B7B46EF3D797.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.11.27:700][ 40]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.11.27:700][ 40]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.11.42:052][123]LogTemp: Repeating last play command: Standalone Game
+[2021.11.11-06.11.42:102][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.11.11-06.13.27:893][  3]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.13.27:967][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.11.11-06.13.28:374][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-06.13.28:392][ 24]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode9DE0D9814C7A978E83B6B08F71F574E6.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-06.13.28:412][ 24]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-06.13.28:412][ 24]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-06.13.59:920][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.11-06.14.21:982][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BPI_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.14.21:984][ 63]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BPI_LobbyPC6521A2394B20A4BC1F485295086C5B6B.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyPC.uasset'
+[2021.11.11-06.14.22:005][ 63]AssetCheck: New page: Asset Save: BPI_LobbyPC
+[2021.11.11-06.14.22:005][ 63]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.11-06.14.22:829][118]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-06.14.22:829][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-06.14.29:895][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.11-06.14.35:053][922]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-06.14.35:054][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-06.14.47:785][773]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.14.47:867][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.11.11-06.14.48:702][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-06.14.48:720][822]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode018DF477466F349082BE4A999472D19A.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-06.14.48:741][822]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-06.14.48:741][822]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-06.15.50:028][796]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-06.15.50:136][796]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.11.11-06.15.50:627][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.15.50:649][815]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPC8DC0F82A4EF1DB99B1B282817320C340.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.15.50:670][815]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.15.50:670][815]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.15.58:794][327]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.11-06.15.58:869][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.11.11-06.15.59:309][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.15.59:330][346]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPC8A832A644A1474A4DB832EBB4387CD11.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.15.59:347][346]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.15.59:347][346]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.16.35:578][605]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.16.35:582][605]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.11.11-06.16.35:582][605]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] In use pin  New Param  no longer exists on node  Lobby PCRef . Please refresh node or break links to remove pin.
+[2021.11.11-06.16.35:583][605]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] This blueprint (self) is not a BP_LobbyPC_C, therefore ' Target ' must have a connection.
+[2021.11.11-06.16.35:652][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.11.11-06.16.36:112][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-06.16.36:132][626]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode2AAFA9D04FCCD819662173BB123614D0.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-06.16.36:149][626]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-06.16.36:150][626]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-06.17.03:748][349]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.17.03:752][349]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.11.11-06.17.03:752][349]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] In use pin  New Param  no longer exists on node  Lobby PCRef . Please refresh node or break links to remove pin.
+[2021.11.11-06.17.03:753][349]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] This blueprint (self) is not a BP_LobbyPC_C, therefore ' Target ' must have a connection.
+[2021.11.11-06.17.03:823][349]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.11.11-06.17.15:371][ 85]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.17.15:381][ 85]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a pin for the parameter NewParam of LobbyPCRef on  Lobby PCRef
+[2021.11.11-06.17.15:381][ 85]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Pin  Lobby PC  named LobbyPC doesn't match any parameters of function LobbyPCRef
+[2021.11.11-06.17.15:382][ 85]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a pin for the parameter NewParam of LobbyPCRef on  Lobby PCRef
+[2021.11.11-06.17.15:382][ 85]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Pin  Lobby PC  named LobbyPC doesn't match any parameters of function LobbyPCRef
+[2021.11.11-06.17.15:448][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.11.11-06.17.22:779][588]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.17.22:785][588]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a pin for the parameter NewParam of LobbyPCRef on  Lobby PCRef
+[2021.11.11-06.17.22:785][588]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Pin  Lobby PC  named LobbyPC doesn't match any parameters of function LobbyPCRef
+[2021.11.11-06.17.22:851][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.11.11-06.17.39:870][781]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.17.39:945][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.11.11-06.17.40:772][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-06.17.40:790][828]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode77389A2A46CDFEC6D9A65CB7B77B4719.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-06.17.40:809][828]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-06.17.40:809][828]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-06.17.57:405][619]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.17.57:411][619]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] This blueprint (self) is not a BPI_LobbyPC_C, therefore ' Target ' must have a connection.
+[2021.11.11-06.17.57:481][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.11.11-06.18.17:098][930]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.18.17:105][930]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a pin for the parameter NewParam of LobbyPCRef on  Lobby PCRef
+[2021.11.11-06.18.17:105][930]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Pin  Lobby PC  named LobbyPC doesn't match any parameters of function LobbyPCRef
+[2021.11.11-06.18.17:168][930]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.11.11-06.18.27:140][611]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.18.27:146][611]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Could not find a pin for the parameter NewParam of LobbyPCRef on  Lobby PCRef
+[2021.11.11-06.18.27:147][611]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\BP_LobbyGameMode.uasset: [Compiler] Pin  Lobby PC  named LobbyPC doesn't match any parameters of function LobbyPCRef
+[2021.11.11-06.18.27:210][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.11.11-06.18.27:776][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-06.18.27:795][642]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode979642D1426C14A8C5AC89A1BDD01324.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-06.18.27:812][642]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-06.18.27:812][642]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-06.18.31:095][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.18.31:115][845]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPCD4AC0E7543580BCF1760F694323F2856.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.18.31:133][845]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.18.31:133][845]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.18.31:410][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.18.31:429][862]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyPC2EE7449A4E509A8A722DF0901D3F5C9C.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.11-06.18.31:449][862]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.11-06.18.31:449][862]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.11-06.18.33:023][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.11-06.19.04:247][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.11-06.19.04:269][ 46]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BP_LobbyGameMode815846BA426AF407B498FDB374ADB915.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.11-06.19.04:289][ 46]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.11-06.19.04:289][ 46]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.11-06.19.42:151][705]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.11-06.19.42:231][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.11.11-06.20.05:139][920]BlueprintLog: New page: Compile BPI_LobbyPC
+[2021.11.11-06.20.05:190][920]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\LobbyMenu.uasset: [Compiler] Unable to find function with name LobbyPCRef for Message node  Invalid Message Node .
+[2021.11.11-06.20.05:190][920]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\LobbyMenu.uasset: [Compiler] In use pin  New Param  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2021.11.11-06.20.05:191][920]LogBlueprint: Error: [AssetLog] D:\Github\Alien_Conquest_002\Content\_main\Lobby\LobbyMenu.uasset: [Compiler] Could not find a function named "LobbyPCRef" in 'BPI_LobbyPC_C'.
+Make sure 'BPI_LobbyPC_C' has been compiled for  Invalid Message Node
+[2021.11.11-06.20.05:264][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.11.11-06.20.05:688][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BPI_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.20.05:689][948]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BPI_LobbyPC410842E2490AC4EC802DE88284281D5E.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyPC.uasset'
+[2021.11.11-06.20.05:711][948]AssetCheck: New page: Asset Save: BPI_LobbyPC
+[2021.11.11-06.20.05:711][948]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.11-06.20.18:668][979]BlueprintLog: New page: Compile BPI_LobbyPC
+[2021.11.11-06.20.18:718][979]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.11.11-06.20.19:159][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BPI_LobbyPC" FILE="../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyPC.uasset" SILENT=true
+[2021.11.11-06.20.19:161][  5]LogSavePackage: Moving '../../../../../Github/Alien_Conquest_002/Saved/BPI_LobbyPC48B9900849D3E421D0144D8942E278F4.tmp' to '../../../../../Github/Alien_Conquest_002/Content/_main/Lobby/BPI_LobbyPC.uasset'
+[2021.11.11-06.20.19:186][  5]AssetCheck: New page: Asset Save: BPI_LobbyPC
+[2021.11.11-06.20.19:186][  5]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.11-06.20.38:770][507]BlueprintLog: New page: Compile BPI_LobbyPC
+[2021.11.11-06.20.38:820][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.11.11-06.20.38:852][507]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.11-06.20.40:283][507]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.432 s
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: 
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 2317]
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: Graph LobbyPCRef already exists: EdGraph /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC:LobbyPCRef
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: Stack: 
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa2e88b3dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfecd6a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfe8b7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfe7784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b61bd6d UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b2ac017 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b297207 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b27ce57 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa2f344820 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b15631d UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b155bf1 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa2e05796e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b25ff6c UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa3b27d576 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41af0088 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41bdf342 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41bbbd07 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41c5859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41c7071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41ab46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41b37f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:283][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41b20337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa41b13632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa5913bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa59129197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa5913e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa59124310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa9d10e7e8 USER32.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa9d10e229 USER32.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa5913f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ff7cab28848 UE4Editor.exe!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ff7cab4117c UE4Editor.exe!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ff7cab4125a UE4Editor.exe!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ff7cab552bd UE4Editor.exe!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ff7cab57fea UE4Editor.exe!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa9ec17034 KERNEL32.DLL!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: [Callstack] 0x00007ffa9f102651 ntdll.dll!UnknownFunction []
+[2021.11.11-06.20.40:284][507]LogOutputDevice: Error: 
